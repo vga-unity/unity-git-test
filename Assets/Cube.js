@@ -6,7 +6,7 @@ function Start () {
 	Debug.Log("Keijiro Takahashi");
 	Debug.Log("KazuyukiIwasa");
 	Debug.Log("Yuya Oda!!");
-    Debug.Log("Shingo Tanaka");
+    Debug.Log("Shingo Tanaka!!");
 }
 
 function Update () {
