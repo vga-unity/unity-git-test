@@ -9,6 +9,7 @@ function Start () {
 	Debug.Log("Yuya Oda!!");
     Debug.Log("Shingo Tanaka!!");
     Debug.Log("Hiroshi Kanagawa!!");
+    Debug.Log("Eri Katano");
 }
 
 function Update () {
